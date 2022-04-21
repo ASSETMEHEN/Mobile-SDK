@@ -1,1 +1,1 @@
-# -Mobile-SDK
+# Mobile-SDK
